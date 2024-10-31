@@ -1,0 +1,6 @@
+pymongo[srv]
+python-telegram-bot
+aiohttp
+flask
+python-dotenv
+gunicorn
